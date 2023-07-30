@@ -1,0 +1,10 @@
+Bootstrap e Novo Projeto
+
+tag nav é utiizada para menu, significa navgation.
+me é margin right, pois o bootstrap a nomeia como margin end.
+bg é backgroud.
+class collapse é um menu em colunas.
+aria-current page é levar o lin para a mesma pagina.
+dropdown é o icone da setinha que quando o usuario clica, desce uma lista.
+scope defini que tipo de- cabeçalho voce quer
+coldspan defini uma reserva de colunas.
